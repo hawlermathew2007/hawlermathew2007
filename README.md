@@ -12,4 +12,8 @@ Programming Language:
 - Beginners: C
 - Advanced: Python, Pygame, Tkinter, HTML, CSS, Javascript, React, nodejs, ejs, filepond and Tailwind Framework
 
-Aspect: Website, Game and AI
+Aspect: 
+- Website
+- Game
+- AI
+- Funny Programs
