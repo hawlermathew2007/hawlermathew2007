@@ -5,7 +5,7 @@ I am a coding lover, I want to code every projects that come in my mind exempt I
 - 🔭 I’m currently working on a program about a cute dino wandering around user's desktop with Tkinter
 - 🌱 I’m currently learning about how to train AI
 - 📝 You can ask me about HTML, CSS, Javascript, React and Python with Pygame
-- ⚡ Fun fact: I am a gym lover, too! You can ask me about the Nuition for Diet and Trainng Method!
+- ⚡ Fun fact: I am a gym lover, too! I have researched many knowledge for building muscle and diets, you can ask me about the Nuition for Diet and Trainng Method!
 
 Programming Language:
 - Beginners: C
