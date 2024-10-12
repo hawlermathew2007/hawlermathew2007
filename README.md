@@ -8,7 +8,7 @@ I am a coding lover, I want to code every projects that come in my mind exempt I
 - ✉️ My Discord's username: hawlermathew
 - 💻 My Leetcode's Account: 'not yet lmaoo'
 - 😆 Pronouns: they/them
-- ⚡ Fun fact: I am a gym lover, too! I have researched many knowledges for building muscles and diets, you can ask me about the Nuition for Diet and Trainng Method!
+- ⚡ Fun fact: I love going to the gym! I have researched many knowledges for building muscles and diets, you can ask me about the Nuition for Diet and Trainng Method!
 
 Programming Language:
 - Beginners: C Language
