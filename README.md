@@ -1,4 +1,4 @@
-## Awoooooooooo 🐺
+## Awooo 🐺
 
 I am a coding lover, I want to code every projects that come in my mind exempt It has a cool outcome!
 
