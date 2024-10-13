@@ -21,3 +21,4 @@ Aspect:
 - AI
 - Automate life with Python
 - Funny Programs
+- Little bit of Machine Learning
