@@ -1,4 +1,4 @@
-## <img src="https://github.com/hawlermathew2007/hawlermathew2007/blob/main/HAWLER_MATHEW_BAR.gif" width="100%" loop=infinite/>
+<img src="https://github.com/hawlermathew2007/hawlermathew2007/blob/main/HAWLER_MATHEW_BAR.gif" width="100%" loop=infinite/>
 
 I am a coding lover, I want to code every projects that come in my mind exempt It has a cool outcome!
 
