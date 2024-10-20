@@ -13,8 +13,8 @@ I am a coding lover, I want to code every projects that come in my mind exempt I
 
 <br/>
 <div align=center>
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=hawlermathew2007&theme=dark">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawlermathew2007&layout=compact&theme=dark">
+  <img height=190 src="https://github-readme-stats.vercel.app/api?username=hawlermathew2007&theme=dark">
+  <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawlermathew2007&layout=compact&theme=dark">
 </div>
 <br/>
 
