@@ -1,4 +1,4 @@
-<img src="https://github.com/hawlermathew2007/hawlermathew2007/blob/main/HAWLER_MATHEW_BAR.gif" style="border: 2px solid black;" width="100%" loop=infinite/>
+<img src="https://github.com/hawlermathew2007/hawlermathew2007/blob/main/HAWLER_MATHEW_BAR.gif" width="100%" loop=infinite/>
 
 I am a coding lover, I want to code every projects that come in my mind exempt It has a cool outcome!
 
@@ -12,9 +12,9 @@ I am a coding lover, I want to code every projects that come in my mind exempt I
 - ⚡ Fun fact: I love going to the gym! I have researched many knowledges for building muscles and diets, you can ask me about the Nuition for Diet and Trainng Method!
 
 <br/>
-<div align=center>
-  <img height=180 src="https://github-readme-stats.vercel.app/api?username=hawlermathew2007&theme=dark">
-  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawlermathew2007&layout=compact&theme=dark">
+<div>
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=hawlermathew2007&theme=dark">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawlermathew2007&layout=compact&theme=dark">
 </div>
 <br/>
 
