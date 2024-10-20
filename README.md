@@ -18,11 +18,13 @@ I am a coding lover, I want to code every projects that come in my mind exempt I
 </div>
 <br/>
 
-**Programming Language:**
+<h3 align="left">Languages and Tools:</h3>
+
 - Beginners: C Language
 - Advanced: Python, Pygame, Tkinter, HTML, CSS, Javascript, React, nodejs, ejs, passport, MongoDB, filepond and Tailwind Framework
 
-**Aspect:** 
+<h3 align="left">Aspect:</h3>
+
 - Website
 - Game
 - AI
