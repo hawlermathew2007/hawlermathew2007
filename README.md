@@ -22,7 +22,7 @@ I am a coding lover, I want to code every projects that come in my mind exempt I
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
   <a href="https://www.leetcode.com/hawlermathew2007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hawlermathew2007" height="30" width="40" /></a>
-  <a href="https://discord.gg/https://discordapp.com/users/927069413088309298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/927069413088309298" height="30" width="40" /></a>
+  <a href="https://discordapp.com/users/927069413088309298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/927069413088309298" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">💻 Languages and Tools:</h3>
