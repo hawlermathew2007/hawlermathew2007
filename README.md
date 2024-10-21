@@ -4,7 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=hawlermathew2007&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ```
-print("I am crazy in love with coding, I want to code every projects that come in my mind exempt It has a cool outcome!")
+print("I'm crazy in love with coding, I want to code every projects that come in my mind exempt It has a cool outcome!")
 ```
 
 - 🔭 I’m currently working on a program about a Cute Dino wandering around user's desktop with Tkinter
@@ -21,13 +21,15 @@ print("I am crazy in love with coding, I want to code every projects that come i
 </div>
 <br/>
 
-<h3 align="left">🤝 Connect with me:</h3>
+<h3 align="left">Connect with me: 🤝 /></h3>
 <p align="left">
-  <a href="https://www.leetcode.com/hawlermathew2007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hawlermathew2007" height="30" width="40" /></a>
   <a href="https://discordapp.com/users/927069413088309298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/927069413088309298" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/hawlermathew2007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hawlermathew2007" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">💻 Languages and Tools:</h3>
+<br/>
+
+<h3 align="left">Languages and Tools: 💻 /></h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -42,13 +44,20 @@ print("I am crazy in love with coding, I want to code every projects that come i
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<h3>🗂️ My Aspects</h3>
+</br>
 
-- 🌐 **Web Development**: I enjoy creating websites and web applications that are both functional and visually appealing.
-- 🎮 **Game Development**: I have a keen interest in developing games that engage and entertain players.
-- 😂 **Funny Programs Creator**: I love writing quirky and funny programs that make people smile or entertain them.
-- 🤖 **AI Training**: I am fascinated by artificial intelligence and enjoy training models to improve their performance.
-- 🏠 **Automate life with Python**: I like coding python program to help me my life like organizing files or even training a smart house!
+<h3>My Aspects: 🗂️ /></h3>
+
+- 🌐 *Web Development*:
+>I enjoy creating websites and web applications that are both functional and visually appealing.
+- 🎮 *Game Development*:
+>I have a keen interest in developing games that engage and entertain players.
+- 😂 *Funny Programs Creator*:
+>I love writing quirky and funny programs that make people smile or entertain them.
+- 🤖 *AI Training*:
+>I am fascinated by artificial intelligence and enjoy training models to improve their performance.
+- 🏠 *Automate life with Python*:
+>I like coding python program to help me my life like organizing files or even training a smart house!
 
 <br/>
 
