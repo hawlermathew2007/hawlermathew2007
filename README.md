@@ -3,7 +3,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=hawlermathew2007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I am a coding lover, I want to code every projects that come in my mind exempt It has a cool outcome!
+```
+print("I am crazy in love with coding, I want to code every projects that come in my mind exempt It has a cool outcome!")
+```
 
 - 🔭 I’m currently working on a program about a Cute Dino wandering around user's desktop with Tkinter
 - 🌱 I’m currently learning about how to train AI and Ethical Hacking
