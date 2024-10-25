@@ -49,15 +49,15 @@ print("I'm crazy in love with coding, I want to code every projects that come in
 <h3>My Aspects: 🗂️ /></h3>
 
 - 🌐 *Web Development*:
->I enjoy creating websites and web applications that are both functional and visually appealing.
+> ---/> I enjoy creating websites and web applications that are both functional and visually appealing.
 - 🎮 *Game Development*:
->I have a keen interest in developing games that engage and entertain players.
+> ---/> I have a keen interest in developing games that engage and entertain players.
 - 😂 *Funny Programs Creator*:
->I love writing quirky and funny programs that make people smile or entertain them.
+> ---/> I love writing quirky and funny programs that make people smile or entertain them.
 - 🤖 *AI Training*:
->I am fascinated by artificial intelligence and enjoy training models to improve their performance.
+> ---/> I am fascinated by artificial intelligence and enjoy training models to improve their performance.
 - 🏠 *Automate life with Python*:
->I like coding python program to help me my life like organizing files or even training a smart house!
+> ---/> I like coding python program to help me my life like organizing files or even training a smart house!
 
 <br/>
 
