@@ -10,7 +10,7 @@ print("I'm crazy in love with coding, I want to code every projects that come in
 - 🔭 I’m currently working on a program about a Cute Dino wandering around user's desktop with Tkinter
 - 🌱 I’m currently learning about how to train AI and Ethical Hacking
 - 💬 You can ask me about HTML, CSS, Javascript, React, nodejs and Python
-- 😆 Pronouns: they/them
+- 😆 Pronouns: try/me
 - 🐺 Wolf is my Symbol!
 - ⚡ Fun fact: I love going to the gym xD! I have researched many knowledges for building muscles and diets, you can ask me about the Nuition for Diet and Trainng Method!
 
