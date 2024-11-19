@@ -8,7 +8,7 @@ print("I'm crazy in love with coding, I want to code every projects that come in
 ```
 
 - 🔭 I’m currently working on a program about a Cute Dino wandering around user's desktop with Tkinter
-- 🌱 I’m currently learning about how to train AI and Ethical Hacking
+- 🌱 I’m currently learning about how to train AI and CEH
 - 💬 You can ask me about HTML, CSS, Javascript, React, nodejs and Python
 - 😆 Pronouns: try/me
 - 🐺 Wolf is my Symbol!
