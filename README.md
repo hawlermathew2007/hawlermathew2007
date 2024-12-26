@@ -7,7 +7,7 @@
 print("I'm crazy in love with coding, I want to code every projects that come in my mind exempt It has a cool outcome!")
 ```
 
-- 🔭 I’m currently working on a program about a Cute Dino wandering around user's desktop with Tkinter
+- 🔭 I’m currently working on Sharetogether (well continue this temporary abandoned project) and planning about my portfolio (I will attemp to make a NFC card)
 - 🌱 I’m currently learning about how to train AI and CEH
 - 📝 I'm practicing C language again, because I abandoned for a bit too long :p 
 - 💬 You can ask me about HTML, CSS, Javascript, React, nodejs and Python
