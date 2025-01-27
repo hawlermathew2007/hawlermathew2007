@@ -57,8 +57,8 @@ print("I'm crazy in love with coding, I want to code every projects that come in
 > ---/> I have a keen interest in developing games that engage and entertain players.
 - 😂 *Funny Programs Creator*:
 > ---/> I love writing quirky and funny programs that make people smile or entertain them.
-- 🤖 *AI Training*:
-> ---/> I am fascinated by artificial intelligence and enjoy training models to improve their performance.
+- 💻 *Noob Hacker*:
+> ---/> I love hacking since I was a kid! Now, I can finally learning it!
 - 🏠 *Automate life with Python*:
 > ---/> I like coding python program to help me my life like organizing files or even training a smart house!
 
