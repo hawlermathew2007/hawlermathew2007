@@ -7,9 +7,9 @@
 print("I'm crazy in love with coding, I want to code every projects that come in my mind exempt It has a cool outcome!")
 ```
 
-- 🔭 I’m currently working on Sharetogether and planning about my portfolio (I will attemp to make a NFC card)
-- 🌱 I’m currently learning about how to train AI and CEH
-- 📝 I'm practicing C language again, because I abandoned for a bit too long :p 
+- 🔭 I’m currently working on my portfolio (I will attemp to make a NFC card)
+- 🌱 I’m currently learning about Offensive Cybersecurity
+- 📝 I'm practicing C language again, because I abandoned for a bit too long :p
 - 💬 You can ask me about HTML, CSS, Javascript, React, nodejs and Python
 - 😆 Pronouns: try/me
 - 🐺 Wolf is my Symbol!
