@@ -10,10 +10,10 @@ print("I'm crazy in love with coding, I want to code every projects that come in
 - 🔭 I’m currently working on a custom Password Manager
 - 🌱 I’m currently studying Offensive Cybersecurity
 - 🍚 I'm Ricing right now btw.
-- 💬 You can ask me about HTML, CSS, Javascript, React, nodejs, Shell Scripting, C and Python
+- 💬 You can ask me about HTML, CSS, Javascript, React, NodeJS, Shell Scripting, C, and Python
 - 😆 Pronouns: try/me
 - 🐺 Wolf is my Symbol!
-- ⚡ Fun fact: I love going to the gym xD! I have researched many knowledge for building muscles and diets, you can ask me about the Nuition for Diet and Trainng Method!
+- ⚡ Fun fact: I love going to the gym xD! I have researched building muscles and diets, you can ask me about the Nutrition for Diet and Training Method!
 
 <br/>
 <div align=center>
