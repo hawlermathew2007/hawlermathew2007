@@ -51,25 +51,3 @@ print("I'm crazy in love with coding, I want to code every projects that come in
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
-
-</br>
-
-<h3>My Aspects: 🗂️ /></h3>
-
-- 🌐 *Web Developer*:
-> ---/> I enjoy creating websites and web applications that are both functional and visually appealing.
-- 🎮 *Game Developer*:
-> ---/> I have a keen interest in developing games that engage and entertain players.
-- 😂 *Funny Programs Creator*:
-> ---/> I love writing quirky and funny programs that make people smile or entertain them.
-- 💻 *Ethical Hacker*:
-> ---/> I love hacking since I was a kid! And, I finally then start my journey since January 2025
-
-<br/>
-
-<h1 align=center>🔥 My Streak and Contributions 💪</h1>
-<div align=center>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hawlermathew2007&theme=dark&hide_border=false">
-</div>
-
-<br/>
