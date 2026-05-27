@@ -8,7 +8,7 @@ print("I'm crazy in love with coding, I want to code every projects that come in
 ```
 
 - 🔭 I’m currently working on TCROSS - Secure TUI Password Manager
-- 🌱 I’m currently studying Offensive Cybersecurity
+- 🌱 I’m currently studying in both Defensive and Offensive Cybersecurity
 - 🐧 I'm using Linux btw (Ubuntu).
 - 😆 Pronouns: try/me
 - 🐺 Wolf is my Symbol!
