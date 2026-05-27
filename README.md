@@ -7,20 +7,19 @@
 print("I'm crazy in love with coding, I want to code every projects that come in my mind exempt It has a cool outcome!")
 ```
 
-- 🔭 I’m currently working on a custom Password Manager
+- 🔭 I’m currently working on TCROSS - Secure TUI Password Manager
 - 🌱 I’m currently studying Offensive Cybersecurity
-- 🍚 I'm Ricing right now btw.
-- 💬 You can ask me about HTML, CSS, Javascript, React, NodeJS, Shell Scripting, C, and Python
+- 🐧 I'm using Linux btw (Ubuntu).
 - 😆 Pronouns: try/me
 - 🐺 Wolf is my Symbol!
 - ⚡ Fun fact: I love going to the gym xD! I have researched building muscles and diets, you can ask me about the Nutrition for Diet and Training Method!
 
-<br/>
+<!-- <br/>
 <div align=center>
   <img height=180 src="https://github-readme-stats.vercel.app/api?username=hawlermathew2007&theme=dark">
   <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hawlermathew2007&layout=compact&theme=dark">
 </div>
-<br/>
+<br/> -->
 
 <h3 align="left">Connect with me: 🤝 /></h3>
 <p align="left">
