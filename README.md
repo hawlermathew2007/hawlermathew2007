@@ -7,7 +7,7 @@
 print("I'm crazy in love with coding, I want to code every projects that come in my mind exempt It has a cool outcome!")
 ```
 
-- 🔭 I’m currently working on TCROSS - Secure TUI Password Manager
+- 🔭 I’m currently working on Datalang
 - 🌱 I’m currently studying in both Defensive and Offensive Cybersecurity
 - 🐧 I'm using Linux btw (Ubuntu).
 - 😆 Pronouns: try/me
@@ -24,7 +24,6 @@ print("I'm crazy in love with coding, I want to code every projects that come in
 <h3 align="left">Connect with me: 🤝 /></h3>
 <p align="left">
   <a href="https://discordapp.com/users/927069413088309298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/927069413088309298" height="50" width="60" /></a>
-  <a href="https://www.leetcode.com/hawlermathew2007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hawlermathew2007" height="50" width="60" /></a>
 </p>
 
 <br/>
