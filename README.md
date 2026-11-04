@@ -26,8 +26,6 @@ print("I'm crazy in love with coding, I want to code every projects that come in
   <a href="https://discordapp.com/users/927069413088309298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/927069413088309298" height="50" width="60" /></a>
 </p>
 
-<br/>
-
 <h3 align="left">Languages and Tools: 💻 /></h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
