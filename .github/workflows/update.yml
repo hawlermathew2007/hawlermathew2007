@@ -1,7 +1,7 @@
 name: Update profile card
 on:
   schedule:
-    - cron: "0 4 * * *"      # every day, 04:00 UTC
+    - cron: "0 8 * * 0"      # every day, 04:00 UTC
   workflow_dispatch:         # manual "Run workflow" button
   push:
     branches: [main]
