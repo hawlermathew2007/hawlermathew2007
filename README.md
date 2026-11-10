@@ -3,7 +3,7 @@
 </p>
 
 <p style="display: flex; width: 100%; gap: 5px;">
-  <a href="https://hawlermathew.dev" style="flex: 1;">
+  <a href="https://hawlermathew.net" style="flex: 1;">
     <img src="link_portfolio.svg" alt="Portfolio" style="width: 33%;" />
   </a>
   <a href="https://www.linkedin.com/in/duonghoaian/" style="flex: 1;">
