@@ -211,7 +211,7 @@ def build_svg(s):
     ax, ix = 15, 300
     body = max(len(ASCII), len(lines))
     term_y = 30 + body * LH + 10
-    height = term_y + 2 * LH + 10
+    height = term_y + LH + 10
     tcss, tsvg = terminal(term_y)
     art = "".join(f'<tspan x="{ax}" y="{30 + i * LH}" textLength="{len(l) * CW:.1f}" lengthAdjust="spacingAndGlyphs">{html.escape(l)}</tspan>'
                   for i, l in enumerate(ASCII))
