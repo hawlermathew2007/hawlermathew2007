@@ -211,13 +211,13 @@ def build_svg(s):
     ax, ix = 15, 300
     body = max(len(ASCII), len(lines))
     term_y = 30 + body * LH + 10
-    height = term_y + 2*LH + 10
+    height = term_y + LH + 10
     tcss, tsvg = terminal(term_y)
     art = "".join(f'<tspan x="{ax}" y="{30 + i * LH}" textLength="{len(l) * CW:.1f}" lengthAdjust="spacingAndGlyphs">{html.escape(l)}</tspan>'
                   for i, l in enumerate(ASCII))
     info_svg = "".join(f'<tspan x="{ix}" y="{30 + i * LH}">{l}</tspan>' for i, l in enumerate(lines))
     return f"""<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="{height}" font-size="16px"
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="{height}" font-size="16px"
      font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',monospace">
 <style>text{{white-space:pre}} .a,.k,.r{{fill:{RED}}} .v{{fill:{YEL}}} .g{{fill:{GRN}}} .d{{fill:{BLU}}}
 {tcss}</style>
