@@ -201,17 +201,17 @@ def build_svg(s):
     sep = '<tspan class="v"> | </tspan>'
     lines += ["", dash_head("GitHub Stats"),
               pre + seg("Repos", [(n(s["repos"]), "v"), (" {", "v"), ("Contributed", "k"), (": ", "k"),
-                                  (n(s["contributed"]), "v"), ("}", "v")], 0)
-                  + sep + seg("Stars", [(n(s["stars"]), "v")], 0),
-              pre + seg("Commits", [(n(s["commits"]), "v")], 0)
-                  + sep + seg("Followers", [(n(s["followers"]), "v")], 0),
+                                  (n(s["contributed"]), "v"), ("}", "v")], 31)
+                  + sep + seg("Stars", [(n(s["stars"]), "v")], 18),
+              pre + seg("Commits", [(n(s["commits"]), "v")], 31)
+                  + sep + seg("Followers", [(n(s["followers"]), "v")], 18),
               pre + seg("Lines of Code", [(n(s["add"] - s["dele"]), "v"), (" (", "v"),
                                           (f'{n(s["add"])}++', "g"), (", ", "v"),
                                           (f'{n(s["dele"])}--', "r"), (")", "v")], WIDTH_CHARS - 2)]
     ax, ix = 15, 300
     body = max(len(ASCII), len(lines))
     term_y = 30 + body * LH + 10
-    height = term_y + LH + 10
+    height = term_y + 10
     tcss, tsvg = terminal(term_y)
     art = "".join(f'<tspan x="{ax}" y="{30 + i * LH}" textLength="{len(l) * CW:.1f}" lengthAdjust="spacingAndGlyphs">{html.escape(l)}</tspan>'
                   for i, l in enumerate(ASCII))
