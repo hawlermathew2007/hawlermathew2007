@@ -1,0 +1,28 @@
+name: Update profile card
+on:
+  schedule:
+    - cron: "0 4 * * *"      # every day, 04:00 UTC
+  workflow_dispatch:         # manual "Run workflow" button
+  push:
+    branches: [main]
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip3 install requests
+      - run: python3 update.py
+        env:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          USER_NAME: ${{ secrets.USERNAME }}
+      - name: Commit card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add card.svg link_*.svg
+          git diff --staged --quiet || (git commit -m "Update profile card" && git push)
