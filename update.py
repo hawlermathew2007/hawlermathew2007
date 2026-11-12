@@ -4,7 +4,7 @@ import os, sys, html, datetime as dt
 import requests
 
 # ---------- theme ----------
-RED, BG, YEL, GRN, BLU = "#c65f5f", "#161b22", "#d9b27c", "#8ca589", "#7d92a2"
+RED, BG, YEL, GRN, BLU = "#bc3226", "#161b22", "#d9b27c", "#8ca589", "#7d92a2"
 
 ASCII = """⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠓⢤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
