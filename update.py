@@ -4,7 +4,7 @@ import os, sys, html, datetime as dt
 import requests
 
 # ---------- theme ----------
-RED, BG, YEL, GRN, BLU = "#bc3226", "#161b22", "#d9b27c", "#8ca589", "#7d92a2"
+RED, BG, YEL, GRN, BLU, WHI = "#bc3226", "#161b22", "#d9b27c", "#8ca589", "#7d92a2", #d2cdb8""
 
 ASCII = """⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠓⢤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -187,7 +187,7 @@ def terminal(y):
     plen = len(PROMPT) * CW
     svg = (f'<text xml:space="preserve" class="k"><tspan x="{x0}" y="{y}" textLength="{plen:.1f}" lengthAdjust="spacingAndGlyphs">{html.escape(PROMPT)}</tspan></text>'
            f'<text xml:space="preserve" class="v">{"".join(chars)}</text>'
-           f'<g class="cur"><rect class="bl" x="0" y="-14" width="{CW}" height="18" fill="{YEL}"/></g>')
+           f'<g class="cur"><rect class="bl" x="0" y="-14" width="{CW}" height="18" fill="{WHI}"/></g>')
     return "\n".join(css), svg
 
 
@@ -219,11 +219,11 @@ def build_svg(s):
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="850" height="{height}" font-size="16px"
      font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',monospace">
-<style>text{{white-space:pre}} .a,.k,.r{{fill:{RED}}} .v{{fill:{YEL}}} .g{{fill:{GRN}}} .d{{fill:{BLU}}}
+<style>text{{white-space:pre}} .a,.k,.r{{fill:{RED}}} .v{{fill:{WHI}}} .g{{fill:{GRN}}} .d{{fill:{BLU}}}
 {tcss}</style>
 <rect width="100%" height="100%" fill="{BG}"/>
 <text class="a" xml:space="preserve">{art}</text>
-<text xml:space="preserve" fill="{YEL}">{info_svg}</text>
+<text xml:space="preserve" fill="{WHI}">{info_svg}</text>
 {tsvg}
 </svg>"""
 
