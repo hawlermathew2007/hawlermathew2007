@@ -219,7 +219,7 @@ def build_svg(s):
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="850" height="{height}" font-size="16px"
      font-family="ui-monospace,SFMono-Regular,Consolas,'DejaVu Sans Mono',monospace">
-<style>text{{white-space:pre}} .a,.k,.r{{fill:{RED}}} .v{{fill:{WHI}}} .g{{fill:{GRN}}} .d{{fill:{BLU}}}
+<style>text{{white-space:pre}} .a,.k,.r{{fill:{RED}}} .v{{fill:{WHI}}} .g{{fill:{GRN}}} .d{{fill:{YEL}}}
 {tcss}</style>
 <rect width="100%" height="100%" fill="{BG}"/>
 <text class="a" xml:space="preserve">{art}</text>
